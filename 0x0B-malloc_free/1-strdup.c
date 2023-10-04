@@ -6,7 +6,7 @@
  *   * @str: str
  *    *
  *     * Return: NULL if str is NULL or insufficient memory. Otherwise pointer
- *      
+ *
  */
 char *_strdup(char *str)
 {
