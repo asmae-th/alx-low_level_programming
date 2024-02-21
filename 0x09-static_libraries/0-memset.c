@@ -2,7 +2,7 @@
 
 /**
  * _memset - ironnou
- * @s: pointer to char params
+ * @s: pointer to char  params
  * @b: data to change
  * @n: index
  * Return: *s
