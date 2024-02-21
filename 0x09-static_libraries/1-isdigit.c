@@ -5,7 +5,7 @@
  *
  * @c: is an integer param
  *
- * Return: Alway s 0.
+ * Return: Always 0.
  */
 
 
