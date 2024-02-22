@@ -4,7 +4,6 @@
 #include <string.h>
 /**
  *  * str_concat - str function
- *   * @str: str
  *   * @s1: first string
  *	 * @s2: secand string
  *   * Return: NULL if str is NULL or insufficient memory. Otherwise pointer
